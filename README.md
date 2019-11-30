@@ -1,5 +1,8 @@
 # blogWebsite
 
- Project name: blogWebsite
- 
- Description: This is a simple blog website.
+# Introduction
+
+It's a simple blog website
+
+# Install
+
