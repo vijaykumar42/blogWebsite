@@ -2,7 +2,7 @@
 
 ## Introduction
 
-It's a simple blog website
+It's a simple blog website.
 
 ## Before you begin
 
@@ -22,10 +22,10 @@ Before going to use the command. Make sure that your are in the current project 
 
 ``` npm app.js ```
 
-open a new tab in your command line, then you need to serve up your local database with the following command
+open a new tab in your command line, then you need to serve up your local database with the following command.
 
 ``` mongod ```
 
-Now everything is setup, use the following command to see the blogWebsite & its functionality
+Now everything is setup, use the following command to see the blogWebsite & its functionality.
 
 ``` http://localhost:1234/ ```
