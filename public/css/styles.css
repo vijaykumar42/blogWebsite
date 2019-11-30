@@ -1,0 +1,57 @@
+
+.navbar {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 50px;
+}
+
+.navbar-brand {
+	padding-left: 60px;
+	font-size: 23px;
+}
+
+.home {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.homepage {
+	padding-top: 120px;
+	padding-bottom: 20px;
+}
+
+.postpage {
+	padding-top: 120px;
+}
+
+.composepage {
+	padding-top: 120px;
+}
+
+.profilepage {
+	padding-top: 120px;
+}
+
+.nav-item {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #dcdcdc;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 14px;
+  color: #000;
+}
