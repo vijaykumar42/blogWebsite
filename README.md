@@ -1,8 +1,8 @@
 # blogWebsite
 
-. Introduction
+### Introduction
 
 It's a simple blog website
 
-. Install
+### Install
 
